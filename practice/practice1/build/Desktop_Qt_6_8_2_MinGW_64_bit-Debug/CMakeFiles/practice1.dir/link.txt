@@ -1,0 +1,3 @@
+"C:\Users\Rahul singh\AppData\Roaming\Python\Python312\site-packages\cmake\data\bin\cmake.exe" -E rm -f CMakeFiles\practice1.dir/objects.a
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\practice1.dir/objects.a @CMakeFiles\practice1.dir\objects1.rsp
+C:\Qt\Tools\mingw1310_64\bin\g++.exe -DQT_QML_DEBUG -g -mwindows -Wl,--whole-archive CMakeFiles\practice1.dir/objects.a -Wl,--no-whole-archive -o practice1.exe -Wl,--out-implib,libpractice1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\practice1.dir\linkLibs.rsp
